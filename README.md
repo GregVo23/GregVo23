@@ -1,4 +1,4 @@
-I am Gregory, 
+I'm Gregory, 
 
 a passionate junior Web Developer 😀⌨🖥️
 
