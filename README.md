@@ -3,6 +3,7 @@ I am Gregory,
 a passionate junior Web Developer 😀⌨🖥️
 
 I have some skills in Vue.js, Laravel, Cake PHP, Lumen ...
+
 Javascript and PHP are my favorites languages 🚀🚀🚀
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GregVo23)](https://github.com/GregVo23/github-readme-stats)
