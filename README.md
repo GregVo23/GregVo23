@@ -1,8 +1,7 @@
-I am Gregory, 
 
-a passionate junior Web Developer 😀⌨🖥️
+I am <b>Gregory</b>, 
 
-I have some skills in Vue.js, Laravel, Cake PHP, Lumen ...
+a passionate junior Web Developer 😀🖥️
 
 <img src="https://github-readme-stats.vercel.app/api?username=GregVo23&hide=prs,stars&show_icons=true&theme=github_dark"/>
 
