@@ -3,8 +3,6 @@ I am <b>Gregory</b>,
 
 a passionate junior Web Developer 😀🖥️
 
-<img src="https://github-readme-stats.vercel.app/api?username=GregVo23&hide=prs,stars&show_icons=true&theme=github_dark"/>
-
 Javascript and PHP are my favorites languages 🚀🚀🚀
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GregVo23&layout=compact&theme=github_dark"/>
